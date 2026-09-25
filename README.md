@@ -167,12 +167,6 @@ KSampler → image → All-in-One Detailer → Upscaler → Save Image
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details
@@ -196,4 +190,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-**Maintainer:** ModusFlow
+**Maintainer:** [@dworden42](https://github.com/dworden42)
