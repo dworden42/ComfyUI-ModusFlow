@@ -66,9 +66,7 @@ ComfyUI-ModusFlow provides 20 custom nodes organized into six categories:
    cd ComfyUI-ModusFlow
    pip install -r requirements.txt
    ```
-   *Optional dependencies for specific features:*
-   - `pip install ultralytics` (for YOLO detection in All-in-One Detailer)
-   - `pip install av` (for multi-format audio encoding in Save Audio)
+   *Installs core dependencies including `ultralytics` (for YOLO detection in All-in-One Detailer) and `av` (for multi-format audio encoding in Save Audio).*
 
 4. Restart ComfyUI
 

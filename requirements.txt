@@ -1,2 +1,4 @@
 requests>=2.31.0,<3.0.0
 einops>=0.7.0
+ultralytics>=8.0.0
+av>=10.0.0
