@@ -1,0 +1,14 @@
+{
+  "ollama_url": "http://127.0.0.1:11434",
+  "ollama_timeout": 120,
+  "civitai_api_key": "",
+  "prompts_save_directory": "",
+  "base_model_definitions": [
+    {"type": "flux", "keywords": ["flux", "flux1.5", "flux1.d", "chroma", "flux.1-schnell"]},
+    {"type": "sdxl", "keywords": ["sdxl", "sd_xl"]},
+    {"type": "pony", "keywords": ["pony"]},
+    {"type": "sd15", "keywords": ["sd_v1", "v1-5", "sd15"]},
+    {"type": "sd35", "keywords": ["sd_v3", "v3-5", "sd35"]}
+  ]
+}
+

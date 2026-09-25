@@ -1,0 +1,14 @@
+# Ignore user-specific configuration
+config.json
+
+# Python cache files
+__pycache__/
+*.pyc
+images
+.idea/
+.venv/
+ComfyUI-ModusFlow.code-workspace
+workflows/Flux (Shared).json
+examples/
+.vs/
+allinone_detailer_prompt_v2.md
