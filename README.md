@@ -188,6 +188,3 @@ MIT License - see [LICENSE](LICENSE) file for details
 - **Issues**: [Report bugs or request features](https://github.com/ModusFlow/ComfyUI-ModusFlow/issues)
 - **Discussions**: [Ask questions and share workflows](https://github.com/ModusFlow/ComfyUI-ModusFlow/discussions)
 
----
-
-**Maintainer:** [@dworden42](https://github.com/dworden42)
